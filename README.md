@@ -4,7 +4,7 @@ Installation:
 
 a. Download the extension
 
-b.Upload the extension
+b. Upload the extension
 Copy the folder "marc1706" included in the downloaded .ZIP file to the folder ext of your phpBB forum.
 After having copied the folder you must see the folder ext/marc1706/quickedit in your phpBB directory.
 
