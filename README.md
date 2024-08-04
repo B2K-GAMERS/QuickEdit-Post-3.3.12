@@ -5,8 +5,8 @@ Installation:
 a. Download the extension
 
 b. Upload the extension
-Copy the folder "marc1706" included in the downloaded .ZIP file to the folder ext of your phpBB forum.
-After having copied the folder you must see the folder ext/marc1706/quickedit in your phpBB directory.
+Upload the folder "marc1706" included in the downloaded .ZIP file to the folder ext of your phpBB forum.
+After having uploaded the folder "marc1706" you must see the folder path ext/marc1706/quickedit in your phpBB ext directory.
 
 c. Enable the extension
 Login to your phpBB administration contral panel (ACP) and open the Customise tab. Then look for the QuickEdit extension and click on the Enable link to activate it.
