@@ -1,6 +1,7 @@
 # QuickEdit-Post-3.3.12 by marc1706
 
 Installation:
+
 a. Download the extension
 
 b.Upload the extension
